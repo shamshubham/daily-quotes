@@ -59,7 +59,7 @@ Here’s a sneak peek of the Quote of the Day application:
 
 ### Quote Display
 
-![Quote Display](https://github.com/shamshubham/quote-of-the-day/blob/master/screenShots/Capture.JPG)
+![Quote Display](https://github.com/shamshubham/daily-quotes/blob/master/screenShots/Capture.JPG)
 
 ---
 
