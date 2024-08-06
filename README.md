@@ -60,7 +60,3 @@ Here’s a sneak peek of the Quote of the Day application:
 ### Quote Display
 
 ![Quote Display](https://github.com/shamshubham/daily-quotes/blob/master/screenShots/Capture.JPG)
-
----
-
-Feel free to adjust and expand upon this README to fit your project's specifics and requirements. Enjoy your daily inspiration with Quote of the Day! 🌟
