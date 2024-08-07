@@ -1,7 +1,3 @@
-Certainly! Here’s the updated README with the added image:
-
----
-
 # 🌟 Quote of the Day
 
 Welcome to **Quote of the Day**—your daily dose of inspiration! This project displays a fresh, random quote along with its author, and even allows you to share it directly on Twitter. Perfect for anyone who loves a daily dose of motivation or wisdom.
